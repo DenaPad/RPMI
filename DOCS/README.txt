@@ -17,6 +17,7 @@ En el siguiente repositorio encontrará la siguiente estructura:
 	Perro_Referencia_Poses.jpg
 	Perro_Referencia_Poses_2.png
 	Perro_Referencia_Poses_3.png
+	Primer_boceto.png
 	Referencia Forma.avif
 
 - PROJECTS: Todos los avances del rig y animación se almacenan aquí. Incluí además archivos "README" para encontrar más detalles en el contenido de la escena y rig final:
